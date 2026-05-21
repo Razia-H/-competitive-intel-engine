@@ -1,0 +1,71 @@
+{
+  "briefing_date": "2025-05-21",
+  "your_company": "Acme Corp",
+  "industry": "Enterprise CRM",
+  "executive_summary": "Today's competitive landscape scores a VOLATILE 68/100 threat index, driven by Salesforce's surprise Einstein AI Suite launch which directly targets Acme's core mid-market CRM segment with native AI features at no additional cost. Immediate action is required from the Product team to accelerate the Q3 AI roadmap announcement before Salesforce's launch event next week captures the narrative.",
+  "threat_index": 68,
+  "market_pulse": "VOLATILE",
+  "top_threat": "Salesforce — Einstein AI Suite launched at no extra cost to Enterprise tier",
+  "competitor_rankings": [
+    {
+      "rank": 1,
+      "name": "Salesforce",
+      "threat_level": "HIGH",
+      "momentum": "ACCELERATING",
+      "top_development": "Launched Einstein AI Suite natively embedded in Enterprise tier at no extra cost"
+    },
+    {
+      "rank": 2,
+      "name": "Microsoft",
+      "threat_level": "MEDIUM",
+      "momentum": "STABLE",
+      "top_development": "Dynamics 365 Copilot expanding to SMB segment with new lower pricing tier"
+    },
+    {
+      "rank": 3,
+      "name": "HubSpot",
+      "threat_level": "MEDIUM",
+      "momentum": "ACCELERATING",
+      "top_development": "Announced 15% price reduction on Professional tier targeting Acme's core segment"
+    },
+    {
+      "rank": 4,
+      "name": "SAP",
+      "threat_level": "LOW",
+      "momentum": "STABLE",
+      "top_development": "No significant news in last 24 hours"
+    }
+  ],
+  "cross_competitor_themes": [
+    "All 3 active competitors investing in AI feature parity — market shifting to AI as table stakes",
+    "Pricing pressure emerging simultaneously from HubSpot and Microsoft",
+    "SMB and mid-market segments being targeted by multiple competitors simultaneously"
+  ],
+  "strategic_recommendations": [
+    {
+      "priority": "URGENT",
+      "action": "Accelerate Q3 AI roadmap announcement before Salesforce launch event on May 28",
+      "rationale": "Salesforce Einstein AI Suite at no extra cost reframes customer expectations",
+      "owner": "Product + Marketing"
+    },
+    {
+      "priority": "HIGH",
+      "action": "Conduct emergency pricing review for Professional tier against HubSpot 15% reduction",
+      "rationale": "HubSpot price cut directly targets our highest-volume segment",
+      "owner": "Revenue + Sales"
+    },
+    {
+      "priority": "MEDIUM",
+      "action": "Prepare competitive battle cards against Einstein AI Suite for sales team",
+      "rationale": "Sales team will face Salesforce AI questions in every deal this week",
+      "owner": "Sales Enablement"
+    }
+  ],
+  "items_to_watch": [
+    "Salesforce Einstein AI Suite launch event — May 28 2025",
+    "HubSpot customer response to pricing reduction",
+    "Microsoft Dynamics 365 Copilot SMB pricing announcement",
+    "Any Acme customer logos appearing in Salesforce case studies"
+  ],
+  "no_news_competitors": ["SAP"]
+}
